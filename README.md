@@ -1,4 +1,4 @@
-# Hi There 👋. I'm Roy 😊
+# Hi There 👋. I'm Roy 😎
 
 ## **`Professional Software Developer`** who is passionate about solving real-life problems through technology. I create & contribute to startups and innovative solutions with the goal of making life better for everyone. I enjoy turning complex challenges into impactful products that create positive change.
 
