@@ -1,10 +1,6 @@
 # Hi There 👋. I'm Roy 😊
 
----
-
 ## **`Professional Software Developer`** who is passionate about solving real-life problems through technology. I create & contribute to startups and innovative solutions with the goal of making life better for everyone. I enjoy turning complex challenges into impactful products that create positive change.
-
----
 
 ### 💻 Tech Stack
 
@@ -31,8 +27,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="60" height="60" style="margin: 10px; background-color: white; border-radius: 8px; padding: 5px"/>
   </p>
 </div>
-
----
 
 ### 📈 Stats
 
