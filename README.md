@@ -30,4 +30,4 @@
 
 ### 📈 Stats
 
-![Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahyobek0606&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahyobek0606&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=issues,prs,contribs=false)
