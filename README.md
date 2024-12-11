@@ -1,6 +1,6 @@
 # Hi There 👋. I'm Roy 😊
 
-** Professional Software Developer** who is passionate about solving real-life problems through technology. I create startups and innovative solutions with the goal of making life better for everyone. I enjoy turning complex challenges into impactful products that create positive change.
+** Professinal Software Developer** who is passionate about solving real-life problems through technology. I create startups and innovative solutions with the goal of making life better for everyone. I enjoy turning complex challenges into impactful products that create positive change.
 
 ### 📈️ Tech Stack
 
@@ -25,7 +25,3 @@
 ### 📈 Stats
 
 ![Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahyobek0606&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yahyobek0606&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyobek0606&layout=compact&theme=tokyonight)
