@@ -9,7 +9,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,html,php,ts,react,nextjs,laravel,wordpress,tailwind,git,figma,npm,pnpm,vite,webpack" />
     <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,postgres,firebase,gcp,nginx,postman" />
-    <img src="https://skillicons.dev/icons?i=obsidian,notion,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=obsidian,notion,neovim,vscode" />
 </div>
 
 ---
