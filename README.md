@@ -30,6 +30,6 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,php,ts,graphql,react,nextjs,laravel,wordpress,tailwind,git,figma,bot,bootstrap,cloudflare,datadog,firebase,gcp,nginx,postgres,planetscale,prisma,vite,webpack,wordpress,vscode,github,postman" />
+    <img src="https://skillicons.dev/icons?i=js,html,php,ts,graphql,react,nextjs,laravel,wordpress,tailwind,git,figma,telegram,bootstrap,cloudflare,datadog,firebase,gcp,nginx,postgres,planetscale,prisma,vite,webpack,wordpress,github,postman" />
     <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,postgres,firebase,gcp,nginx,github,postman" /><br>
 </div>
