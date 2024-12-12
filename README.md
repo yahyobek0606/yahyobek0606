@@ -12,8 +12,6 @@
     <img src="https://skillicons.dev/icons?i=obsidian,notion,neovim,vscode" />
 </div>
 
----
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
