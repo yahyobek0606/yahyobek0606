@@ -8,8 +8,9 @@
 ---
 
 ### 📈 Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=yahyobek0606&theme=dark&hide_border=false)<br/>
+<div style="display:flex; justify-content: center;" >
+  ![Roy's github Stats](https://github-readme-streak-stats.herokuapp.com/?user=yahyobek0606&theme=dark&hide_border=false)<br/>
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
