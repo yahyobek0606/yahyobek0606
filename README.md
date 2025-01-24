@@ -28,8 +28,8 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yahyobek0606/yahyobek0606/output/github-contribution-grid-snake.svg" />
 </div>
-<div align="center">
+<!-- <div align="center">
   <h2>🌟 3D Contribution Graph 🌟</h2>
   <br>
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution graph" />
-</div>
+</div> -->
