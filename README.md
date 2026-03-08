@@ -1,11 +1,3 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There👋.+I'm+Roy+😎;" />
-</h1>
-
-## Strategic IT Consultant | Driving Innovation & Business Transformation 
-Passionate about leveraging technology to solve complex business challenges and drive meaningful change. I specialize in crafting scalable digital strategies, optimizing IT ecosystems, and enabling startups and enterprises to stay ahead in a rapidly evolving landscape. My focus is on turning visionary ideas into actionable solutions that deliver measurable impact.
-
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
